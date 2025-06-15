@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Summer Music Festival 2024",
+      "date": "2024-07-15",
+      "location": "Central Park, New York",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3",
+      "description": "Join us for the biggest music festival of the summer! Featuring top artists from around the world, food vendors, and amazing atmosphere."
+    },
+    {
+      "id": "2",
+      "title": "Tech Conference 2024",
+      "date": "2024-08-20",
+      "location": "Convention Center, San Francisco",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678",
+      "description": "Annual technology conference featuring keynote speakers, workshops, and networking opportunities with industry leaders."
+    },
+    {
+      "id": "3",
+      "title": "Food & Wine Festival",
+      "date": "2024-09-10",
+      "location": "Downtown District, Chicago",
+      "price": 75.00,
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
+      "description": "Experience the finest cuisines and wines from around the world. Meet celebrity chefs and enjoy live cooking demonstrations."
+    },
+    {
+      "id": "4",
+      "title": "Comedy Night Special",
+      "date": "2024-06-25",
+      "location": "Laugh Factory, Los Angeles",
+      "price": 45.00,
+      "image": "https://images.unsplash.com/photo-1542931287-023b922fa89b",
+      "description": "An evening of laughter with top comedians from around the country. Food and drinks available for purchase."
+    },
+    {
+      "id": "5",
+      "title": "Marathon 2024",
+      "date": "2024-10-05",
+      "location": "City Center, Boston",
+      "price": 85.00,
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5",
+      "description": "Annual city marathon with different categories for runners of all levels. Includes race kit, medal, and refreshments."
+    }
+  ]
+} 
