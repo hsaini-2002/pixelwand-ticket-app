@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, FlatList, StyleSheet, ActivityIndicator } from 'react-native';
+import { View, FlatList, StyleSheet, ActivityIndicator, Text } from 'react-native';
 import { EventCard } from '../components/EventCard';
 import { api } from '../services/api';
 import { Event } from '../types';
